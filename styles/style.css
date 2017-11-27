@@ -1,6 +1,12 @@
 .navbar-default {
   opacity: .95;
-  background-image: none;
-  /*background: #000 !important;*/
   background-color: #ffbb33;
+}
+
+.nav.navbar-nav li a {
+  color: #f9f9f9;
+}
+
+.nav.navbar-default .navbar-brand{
+  color: #f9f9f9;
 }
