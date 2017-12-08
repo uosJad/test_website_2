@@ -17,4 +17,7 @@ function increaseButtonNumber(){
 function resetButtonNumber() {
   document.getElementById("numberButtonCount").innerHTML = "";
   console.log("reset number");
+
+
+
 }
